@@ -1,3 +1,5 @@
+---- Este es un Script " BolitaSystem" y va dentro de "ServerScriptService "------
+
 
 local Players = game:GetService("Players")
 local Debris = game:GetService("Debris")
